@@ -1,8 +1,6 @@
 import "./Componentes/Styles/App.css";
-import Cartelera from "./pages/Cartelera.js.js";
-import Home from "./pages/Home.js.js";
-//import NavBarHome from "./pages/NavBarHome.js";
-//import ErrorPage from "./pages/ErrorPage.js";
+import Cartelera from "./pages/Cartelera";
+import Home from "./pages/Home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 

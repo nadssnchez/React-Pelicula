@@ -1,7 +1,7 @@
 import React from "react";
 import Integrantes from "./Integrantes.js";
 import "./Styles/Peliculas.css";
-import desarrolladores from "../Componentes/Json/desarrolladores"
+import desarrolladores from "../Componentes/Json/Peliculas.json";
 
 function Peliculas() {
 
